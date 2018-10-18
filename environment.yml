@@ -3,3 +3,4 @@ dependencies:
   - ipython
   - numpy
   - scipy
+  - seaborn
